@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://plesbeho.github.io/sitemap
+Sitemap: https://plesbeho.github.io/app/sitemap
+Sitemap: https://plesbeho.github.io/assets/sitemap
+Sitemap: https://plesbeho.github.io/css/sitemap
+Sitemap: https://plesbeho.github.io/includes/sitemap
+Sitemap: https://plesbeho.github.io/item/sitemap
+Sitemap: https://plesbeho.github.io/src/sitemap
